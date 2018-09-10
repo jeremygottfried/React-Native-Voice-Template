@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTView.m \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTView.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/React/Modules/RCTI18nUtil.h

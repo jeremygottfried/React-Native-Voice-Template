@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/Libraries/Network/RCTNetworking.mm \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/jeremygottfried/Development/code/VoiceNative/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h
