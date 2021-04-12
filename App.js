@@ -31,13 +31,13 @@ export default class VoiceNative extends React.Component {
     this.setState({
       started: '√',
     });
-  };
+  }
 
   onSpeechRecognized(e) {
     this.setState({
       recognized: '√',
     });
-  };
+  }
 
   onSpeechResults(e) {
     this.setState({
